@@ -1,7 +1,7 @@
 ## Hi, I'm Krishna 👋
 🧠 Computer Science student at Netaji Subhas University of Technology </br>
 🌱 I’m currently learning DSA, Web3, Generative AI </br>
-📫 How to reach me: [LinkedIn]{https://www.linkedin.com/in/krishna-pansari-11886028b/}
+📫 How to reach me: [LinkedIn]{https://www.linkedin.com/in/krishna-pansari-11886028b/} </br>
 🔭 I’m currently working on Making a CryptoCoin. (Researching rn) </br>
 Recently got serious, would appreciate any help and any brainstorming sessions! </br>
 
