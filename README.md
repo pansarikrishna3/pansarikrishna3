@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi, I'm Krishna 👋
+🧠 Computer Science student at Netaji Subhas University of Technology </br>
+🌱 I’m currently learning DSA, Web3, Generative AI </br>
+📫 How to reach me: [LinkedIn]{https://www.linkedin.com/in/krishna-pansari-11886028b/}
+🔭 I’m currently working on Making a CryptoCoin. (Researching rn) </br>
+Recently got serious, would appreciate any help and any brainstorming sessions! </br>
+
 
 <!--
 **pansarikrishna3/pansarikrishna3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
